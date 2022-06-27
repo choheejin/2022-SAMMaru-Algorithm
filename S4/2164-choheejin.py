@@ -17,5 +17,5 @@ while True:
     
 print(queue[0])
 
-# 런타임 에러 (IndexError) 가 났었다.
+# 런타임 에러(IndexError)가 났었다.
 # queue의 사이즈가 1일때 break 해주는 명령어를 popleft 후에 해줬기에 입력이 1일때 에러가 났었다.
