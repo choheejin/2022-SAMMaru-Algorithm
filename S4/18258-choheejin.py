@@ -24,3 +24,4 @@ for i in range(0, N, 1):
     print(len(queue))
   if(op[0] == "empty"):
     print("1" if len(queue)==0 else "0")
+
